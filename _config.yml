@@ -11,4 +11,4 @@ github_username:  xavierwoo
 # Build settings
 markdown: kramdown
 
-highlighter: rouge
+#highlighter: rouge
